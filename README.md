@@ -1,4 +1,5 @@
 ### Hi there 👋 , I'm Shahid.
+
 I’m primarily Sr Software Engineer. Who loves to code ❤️.
 Passionate about learning and exploring the latest technologies.
 
@@ -10,3 +11,4 @@ Passionate about learning and exploring the latest technologies.
 - 📫 How to reach me: ... Reach me [at] [shahidkhans.com](https://shahidkhans.com) 
 
 ![Shahid's Github Stats](https://github-readme-stats.vercel.app/api?username=shahid-khans&count_private=true&theme=default&show_icons=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid-khans" alt="shahid" /> </p>
